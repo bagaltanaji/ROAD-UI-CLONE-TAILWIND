@@ -2,7 +2,7 @@
 ### What I Learned from this Project?
  * Learned how to use tailwind classes.
  * Learned about various CSS classes
- ### Project Link - [link](https://github.com/bagaltanaji/ROAD-UI-CLONE-Tailwind.git)
+ ### Project Link - [link](https://bagaltanaji.github.io/t/)
  ### This project took around 8 hours to complete.
  ### Screenshot -
  
